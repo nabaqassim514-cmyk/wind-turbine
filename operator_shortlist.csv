@@ -1,0 +1,7 @@
+operator_name,total_cap_mw,num_states,sector_name,avg_capacity_factor_2024,capacity_factor_trend,market_share_pct,rationale
+Southern Power Co,2347.165,7,NAICS-22 Non-Cogen,0.4032477077973984,0.019758018368392,1.8889771109652096,Mid-size IPP with stable/positive CF trend.
+Engie North America,1957.415,4,NAICS-22 Non-Cogen,0.3849268851893151,0.1237088658717527,1.5753098447105194,Mid-size IPP with stable/positive CF trend.
+"Leeward Asset Management, LLC",1610.765,7,NAICS-22 Non-Cogen,0.3716315428448118,0.0420978097481151,1.2963290676811712,Mid-size IPP with stable/positive CF trend.
+AES Distributed Energy,1093.1,6,NAICS-22 Non-Cogen,0.3202870015799234,0.0296162172107942,0.8797169691930778,Mid-size IPP with stable/positive CF trend.
+Caithness Shepherds Flat LLC,845.0,1,NAICS-22 Non-Cogen,0.2493810712256941,0.0003215293998788,0.6800483386407016,Mid-size IPP with stable/positive CF trend.
+"High Lonesome Wind Power, LLC",500.535,1,NAICS-22 Non-Cogen,0.2692271819244483,0.1643280396715041,0.4028260298006196,Mid-size IPP with stable/positive CF trend.
